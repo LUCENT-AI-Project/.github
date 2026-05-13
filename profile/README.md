@@ -1,4 +1,4 @@
-# LUCENT AI
+<img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/285e2785-ea38-49fd-8e75-9e9a42e28e8c" /># LUCENT AI
 
 > Ambient Conversational AI Agent
 
@@ -129,7 +129,7 @@ a simple chatbot into an emotionally reactive ambient interface.
 
 ### Emotion Interaction
 <p align="center">
-  <img src="./jpeg/화면녹화.mp4" width="85%" />
+  <img src="./jpeg/screenrecording_out.gif" width="85%" />
 </p>
 ---
 
