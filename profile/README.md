@@ -1,9 +1,22 @@
-> Ambient Conversational AI Agent
+# LUCENT AI — Ambient Conversational AI Agent
 
-사용자의 흐름과 감정 상태에 반응하는
-인터랙션 중심 AI Agent 프로젝트
+> "사용자의 흐름과 감정 상태에 반응하는 인터랙션 중심 AI Agent 프로젝트"
+
+<br>
 
 ![preview](./jpeg/컨셉보드.png)
+
+---
+
+## Overview
+
+LUCENT는 단순한 AI 챗봇이 아닌,  
+사용자의 상태와 대화 흐름에 따라  
+시각적으로 반응하는 Ambient AI Agent입니다.
+
+Glassmorphism 기반 인터페이스와  
+감정형 캐릭터 인터랙션을 통해  
+“살아있는 AI 경험”을 구현했습니다.
 
 ---
 
