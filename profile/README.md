@@ -140,7 +140,7 @@ a simple chatbot into an emotionally reactive ambient interface.
 
 ### Emotion Interaction
 <p align="center">
-  <img src="./jpeg/screenrecording_out.gif" width="85%" />
+  <img src="./jpeg/screenrecording_out.gif" width="50%" />
 </p>
 ---
 
