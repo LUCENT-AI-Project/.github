@@ -5,7 +5,7 @@
 사용자의 흐름과 감정 상태에 반응하는
 인터랙션 중심 AI Agent 프로젝트
 
-![preview](./assets/컨셉보드.png)
+![preview](./profile/jpeg/컨셉보드.png)
 
 ---
 
