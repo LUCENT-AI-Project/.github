@@ -119,14 +119,14 @@ a simple chatbot into an emotionally reactive ambient interface.
 ---
 
 ## Preview
-![main](./assets/디자인시스템.png)
+![design](./profile/jpeg/디자인시스템.png)
 ### Main Interface
 
-![main](./assets/다크채팅.png)
-![main](./assets/라이트채팅.png)
+![dark](./profile/jpeg/다크채팅.png)
+![light](./profile/jpeg/라이트채팅.png)
 ### Emotion Interaction
 
-![emotion](./assets/emotion_preview.gif)
+![gif](./profile/jpeg/screenrecording_out.gif)
 
 ---
 
