@@ -1,5 +1,3 @@
-<img width="1006" height="607" alt="image" src="https://github.com/user-attachments/assets/285e2785-ea38-49fd-8e75-9e9a42e28e8c" /># LUCENT AI
-
 > Ambient Conversational AI Agent
 
 사용자의 흐름과 감정 상태에 반응하는
