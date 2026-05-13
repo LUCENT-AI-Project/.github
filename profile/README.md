@@ -128,9 +128,9 @@ a simple chatbot into an emotionally reactive ambient interface.
 </p>
 
 ### Emotion Interaction
-
-![gif](./jpeg//screenrecording_out.gif)
-
+<p align="center">
+  <img src="./jpeg/screenrecording_out.gif" width="85%" />
+</p>
 ---
 
 ## Author
