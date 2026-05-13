@@ -5,7 +5,7 @@
 사용자의 흐름과 감정 상태에 반응하는
 인터랙션 중심 AI Agent 프로젝트
 
-![preview](./profile/jpeg/컨셉보드.png)
+![preview](./jpeg/컨셉보드.png)
 
 ---
 
@@ -119,14 +119,14 @@ a simple chatbot into an emotionally reactive ambient interface.
 ---
 
 ## Preview
-![design](./profile/jpeg/디자인시스템.png)
+![design](./jpeg/디자인시스템.png)
 ### Main Interface
 
-![dark](./profile/jpeg/다크채팅.png)
-![light](./profile/jpeg/라이트채팅.png)
+![dark](./jpeg//다크채팅.png)
+![light](./jpeg/라이트채팅.png)
 ### Emotion Interaction
 
-![gif](./profile/jpeg/screenrecording_out.gif)
+![gif](./jpeg//screenrecording_out.gif)
 
 ---
 
