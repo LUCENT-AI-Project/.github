@@ -122,8 +122,11 @@ a simple chatbot into an emotionally reactive ambient interface.
 ![design](./jpeg/디자인시스템.png)
 ### Main Interface
 
-![dark](./jpeg//다크채팅.png)
-![light](./jpeg/라이트채팅.png)
+<p align="center">
+  <img src="./jpeg/다크채팅.png" width="45%" />
+  <img src="./jpeg/라이트채팅.png" width="45%" />
+</p>
+
 ### Emotion Interaction
 
 ![gif](./jpeg//screenrecording_out.gif)
